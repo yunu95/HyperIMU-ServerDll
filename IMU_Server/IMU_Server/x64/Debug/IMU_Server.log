@@ -1,0 +1,17 @@
+﻿  IMU_data.cpp
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Vector3d.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Vector3d' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_data.h(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Quaternion.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Quaternion' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_data.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  IMU_Server.cpp
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Vector3d.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Vector3d' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Quaternion.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Quaternion' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Server.cpp(80,29): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Source.cpp
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Vector3d.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Vector3d' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\IMU_Quaternion.h(14,3): warning C4091: '__declspec(dllexport)': ignored on left of 'IMU_Quaternion' when no variable is declared
+C:\Users\wlwhs\source\repos\IMU_Server\IMU_Server\Source.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  LINK : C:\Users\wlwhs\source\repos\IMU_Server\x64\Debug\IMU_Server.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\wlwhs\source\repos\IMU_Server\x64\Debug\IMU_Server.lib and object C:\Users\wlwhs\source\repos\IMU_Server\x64\Debug\IMU_Server.exp
+  IMU_Server.vcxproj -> C:\Users\wlwhs\source\repos\IMU_Server\x64\Debug\IMU_Server.dll

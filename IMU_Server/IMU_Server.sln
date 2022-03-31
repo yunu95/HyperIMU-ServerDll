@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMU_Server", "IMU_Server\IMU_Server.vcxproj", "{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Debug|x64.ActiveCfg = Debug|x64
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Debug|x64.Build.0 = Debug|x64
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Debug|x86.Build.0 = Debug|Win32
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Release|x64.ActiveCfg = Release|x64
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Release|x64.Build.0 = Release|x64
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Release|x86.ActiveCfg = Release|Win32
+		{C56E1919-4BB2-42CA-8E6F-61D6B20935BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE2D0A0-DEAD-4F48-917C-5B272507A115}
+	EndGlobalSection
+EndGlobal
